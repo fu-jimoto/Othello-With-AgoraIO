@@ -1,0 +1,26 @@
+#chat{
+    width: 390px;
+    max-width: 20vm;
+    height: 300px;
+    margin-right: 0;
+    margin-left: auto;
+    background-color: yellow;
+    display: none;
+    position: relative;
+    top: -463px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#messageArea{
+   margin: 10px 30px;
+}
+
+#comments{
+    margin: 0 auto;
+    background-color: rgba(256, 256, 256, 0.4);
+    width: 90%;
+    height: 250px;
+    overflow: scroll;
+    list-style: none;
+}

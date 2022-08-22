@@ -1,0 +1,22 @@
+#footer{
+  display: flex;
+  justify-content: space-around;
+}
+
+.audience-num{
+    width: 10vw;
+    background-color: brown;
+}
+
+.predict{
+    width: 70vw;
+    background-color: yellow;
+}
+
+.switch-button{
+    width: 10vw;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

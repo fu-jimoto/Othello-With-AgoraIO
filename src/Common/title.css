@@ -1,0 +1,13 @@
+#title{
+    width: 300px;
+    height: 70px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: azure;
+    font-size: 30px;
+    line-height: 70px;
+    background-color: black;
+}

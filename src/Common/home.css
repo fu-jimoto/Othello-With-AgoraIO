@@ -1,0 +1,55 @@
+body{
+    background-image: url(../homeBg.jpg);
+}
+
+a{
+    text-decoration: none;
+}
+.button p{
+   font-size: 60px;
+   height: 100%;
+   line-height: 100%;
+}
+
+#name{
+    margin: 4px;
+}
+
+.button-area{
+    margin: 50px auto;
+    width: 700px;
+    padding-top: 70px;
+}
+
+.button{
+    border: black 1px solid;
+    border-radius: 10px;
+    background-color: rgb(113, 216, 10);  
+    height: 180px;
+    color: azure;
+}
+
+.button:hover{
+    background-color: rgb(6, 154, 6);
+}
+
+.player-button{
+    
+}
+
+.audience-button{
+}
+
+.inline-button{
+    display: block;
+    margin: 30px;
+}
+
+.no-click{
+    background-color: rgb(3, 96, 3);
+    color: rgb(56, 55, 55);
+}
+
+.no-link{
+    pointer-events: none;
+}
